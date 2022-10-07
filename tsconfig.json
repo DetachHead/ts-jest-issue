@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": false,
+        "esModuleInterop": true,
+        "noEmit": true
+    },
+    "include": ["tests"]
+}
