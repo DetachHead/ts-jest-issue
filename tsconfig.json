@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        "skipLibCheck": false,
         "esModuleInterop": true,
         "noEmit": true
     },
